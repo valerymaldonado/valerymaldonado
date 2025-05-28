@@ -27,6 +27,21 @@ Es un sitio web que presenta a los personajes más icónicos de Sanrio. Cada per
 - 🔍 Interactividad básica con JavaScript (descripciones, botones, efectos).
 
 ---
+##📚 Personajes incluidos
+- 🐱 Hello Kitty – La clásica gatita sin boca.
+
+- 🐶 Cinnamoroll – Dulce perrito blanco con orejas largas.
+
+- 😈 Kuromi – Traviesa, pero encantadora.
+
+- 🍮 Pompompurin – Perrito amante del pudín.
+
+- 🖤 Chococat – Gato curioso e inteligente.
+
+##👩‍💻 Creado por
+Nombre: Valery Maldonado
+Email: valery.maldonado@uerf.edu.ec
+GitHub: @valerymaldonado
 
 ## 🚀 ¿Cómo ver mi página?
 
