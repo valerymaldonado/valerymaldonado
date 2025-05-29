@@ -1,52 +1,57 @@
-# 🎀 Sanrio Friends Web: Enciclopedia de Personajes cutes 🌸
+# 🍮✨ ¡Hola, mundo! Soy Valery ✨🍮
 
-Bienvenidos a *Sanrio Friends Web*, una página web creada con amor para los fans del adorable universo Sanrio. Aquí podrás conocer a tus personajes favoritos como Hello Kitty, Cinnamoroll, Kuromi y muchos más. 🐱💗🍰
+¡Bienvenid@ a mi rincón en GitHub! 👋  
+Soy Valery, tengo 16 años y me encanta compartir mi mundo lleno de música, ternura y mucho flan. 🎵💛
 
----
+## 🐶 Sobre mí
 
-## 🌟 ¿Qué es este proyecto?
+- 🎂 Nací el 17 de OCTUBRE, ¡igual que Pompompurin!  
+- 🍮 Amante del flan y todo lo dulce.  
+- 🎶 Mente de corista, corazón de percusionista.  
+- 🐾 Me identifico con Pompompurin: relajada, amigable y siempre con una sonrisa.  
+- 🎧 Fan de Wos y Trueno, ¡la música es mi motor!
 
-Es un sitio web que presenta a los personajes más icónicos de Sanrio. Cada personaje tiene su propia sección con imágenes, curiosidades, historia y datos divertidos. Ideal para fans, estudiantes o cualquier persona que ame el estilo *kawaii* japonés. 🎌✨
+## 🥁 Mis instrumentos
 
----
+- 🪘 Pandereta  
+- 🎶 Güira  
+- 🔔 Campana  
+- 🥁 Bombo  
+- 🥁 Timbani
 
-## 🎯 Objetivo del Proyecto
+## 🐾 ¿Quién es Pompompurin?
 
-- Crear una página web bonita, organizada y amigable para el usuario.
-- Compartir información interesante sobre personajes de Sanrio.
-- Practicar HTML, CSS y Bootstrap con una temática encantadora.
+Pompompurin es un adorable Golden Retriever creado por Sanrio en 1996. 🎩  
+- 🐶 Vive en una canasta en la entrada de la casa de su dueña.  
+- 🍮 Su comida favorita es el pudín de caramelo que prepara su mamá.  
+- 👟 Le encanta coleccionar zapatos y hacer "purin aerobics".  
+- 🐹 Sus mejores amigos son Muffin (hámster), Scone (ratón) y Custard (pájaro).  
+- 🌟 ¡Fue el personaje más popular de Sanrio en 1997, 2015 y 2016!
 
----
+## 🧡 Mis amigos
 
-## 📌 Funciones destacadas
+No estaría completa sin mencionar a mis increíbles amigos que hacen mi mundo más brillante:
 
-- 🧸 Secciones individuales para cada personaje.
-- 📷 Imágenes grandes y coloridas.
-- 🎨 Diseño responsive con Bootstrap.
-- 🌈 Colores suaves y estilo kawaii.
-- 🔍 Interactividad básica con JavaScript (descripciones, botones, efectos).
+- 🌟 Allis  
+- 🎶 Xavier  
+- 💖 Ximena  
+- 🌸 Carmen  
+- 🎵 Aron
 
----
-##📚 Personajes incluidos
-- 🐱 Hello Kitty – La clásica gatita sin boca.
+¡Gracias por ser parte de mi vida y compartir momentos inolvidables conmigo!
 
-- 🐶 Cinnamoroll – Dulce perrito blanco con orejas largas.
+## 🌈 Mis proyectos
 
-- 😈 Kuromi – Traviesa, pero encantadora.
+Estoy trabajando en proyectos que combinan música y tecnología. ¡Pronto compartiré más!
 
-- 🍮 Pompompurin – Perrito amante del pudín.
+## 📫 Conecta conmigo
 
-- 🖤 Chococat – Gato curioso e inteligente.
+- 💌 [Correo electrónico](valery.maldonado@uerdf.edu.ec)   
+  
 
-##👩‍💻 Creado por
-Nombre: Valery Maldonado
-Email: valery.maldonado@uerf.edu.ec
-GitHub: @valerymaldonado
+¡Gracias por visitar mi perfil! 💖  
 
-## 🚀 ¿Cómo ver mi página?
 
-1. **Abre este enlace** si el proyecto está publicado con GitHub Pages:  
-   👉 
 <!---
 valerymaldonado/valerymaldonado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
