@@ -33,7 +33,7 @@ Pompompurin es un adorable Golden Retriever creado por Sanrio en 1996. 🎩
 No estaría completa sin mencionar a mis increíbles amigos que hacen mi mundo más brillante:
 
 - 🌟 Allis  
-- 🎶 Xavier  
+- 🕷️ Xavier  
 - 💖 Ximena  
 - 🌸 Carmen  
 - 🎵 Aron
