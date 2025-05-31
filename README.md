@@ -75,7 +75,7 @@ Me llamo **Valery**, tengo 16 años y comparto mi mundo lleno de **música, tern
 ## 📫 Conecta conmigo
 
 💌 **Correo:** [valery.maldonado@uerdf.edu.ec](mailto:valery.maldonado@uerdf.edu.ec)  
-🐾 **GitHub:** [@valerysanrio](https://github.com/valerysanrio)
+🐾 **GitHub:** [@valerysanrio](https://github.com/valerymaldonado)
 
 ---
 
